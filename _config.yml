@@ -4,3 +4,4 @@ server_port: 4000
 pygments:    false
 permalink:   /:categories/:title/
 highlighter:  rouge
+layout: default
