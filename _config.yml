@@ -1,7 +1,6 @@
-destination: ./_site
+name: "naga86.github.io"
+description: "Music blog"
+url: "http://soundtrackindia/"
 auto:        true
-server_port: 4000
-pygments:    false
+pygments:    true
 permalink:   /:categories/:title/
-highlighter:  rouge
-layout: default
